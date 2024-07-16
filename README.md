@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Software Engineer at Subex<br>- 📚 I'm currently learning WebRTC and socket.IO<br>- ⚡ I love working and exploring in frontend</p>
+<p align="left">- 🔭 I’m working as a Software Engineer at Subex<br>- 📚 I'm currently learning and exploring WebRTC and socket.IO<br>- ⚡ I love working and developing responsive websites</p>
 
 ###
 
